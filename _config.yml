@@ -1,0 +1,23 @@
+name: jscroft
+favicon: null
+layout_spectrum: 0.28639896400272846
+typography_spectrum: 0.4147708495147526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4713305204641074
+  lightness: 0.34038482094183564
+  saturation: 0.5595035508740693
+  rhythmicContrast: 0.08970563323237002
+purpose: []
